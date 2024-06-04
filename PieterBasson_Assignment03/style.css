@@ -1,0 +1,71 @@
+body
+{
+    background-color: rgb(36, 33, 33);
+     /**max-width: 2000px;
+    margin: auto;**/
+}
+
+#button
+{
+    transform: translate(-6%, 0%);
+    width: 300px;
+    height: 100px;
+    background-color: darkslategray;
+    color: white;
+}
+
+#button:hover
+{
+    color: black;
+}
+
+#button2
+{
+    transform: translate(-6%, 0%);
+    width: 300px;
+    height: 100px;
+    background-color: darkslategray;
+    color: white;
+}
+
+#button2:hover
+{
+    color: black;
+}
+
+.AboutMe
+{
+    background-color: darkslategray;
+    background-image: url(Images/Game1.png);
+    background-position: center center;
+    border: 2px solid black;
+}
+
+.AboutMeText
+{
+    font-family: Verdana;
+    width: 50%;
+}
+
+.Pictures
+{
+    background-color: darkslategray;
+    border: 2px solid black;
+}
+
+.PicturesText
+{
+    font-family: Verdana;
+    width: 50%;
+}
+
+.Contacts
+{
+    background-color: whitesmoke;
+    border: 2px solid black;
+}
+
+.ContactsText
+{
+    font-family: Verdana;
+}
